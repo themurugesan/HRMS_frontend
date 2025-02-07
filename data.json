@@ -1,0 +1,26 @@
+{
+    
+    "attendance": [
+      {"employeeId":"210009","isCheckIn":"0","eventtime":"2025-02-05T12:16:49"},
+      {"employeeId":"210009","isCheckIn":"1","eventtime":"2025-02-05T12:19:58"},
+      {"employeeId":"MERN0002","isCheckIn":"0","eventtime":"2025-02-05T12:55:44"},
+      {"employeeId":"MERNB101","isCheckIn":"0","eventtime":"2025-02-05T12:55:49"},
+      {"employeeId":"MERNB102","isCheckIn":"0","eventtime":"2025-02-05T12:55:52"},
+      {"employeeId":"220007","isCheckIn":"0","eventtime":"2025-02-05T12:56:47"},
+      {"employeeId":"00700227","isCheckIn":"0","eventtime":"2025-02-05T13:00:11"},
+      {"employeeId":"1004","isCheckIn":"0","eventtime":"2025-02-05T13:00:38"},
+      {"employeeId":"210009","isCheckIn":"0","eventtime":"2025-02-05T13:02:34"},
+      {"employeeId":"MERN0002","isCheckIn":"1","eventtime":"2025-02-05T13:03:57"},
+      {"employeeId":"210009","isCheckIn":"1","eventtime":"2025-02-05T13:04:25"},
+      {"employeeId":"MERNB102","isCheckIn":"1","eventtime":"2025-02-05T13:04:58"},
+      {"employeeId":"MERNB101","isCheckIn":"1","eventtime":"2025-02-05T13:05:03"},
+      {"employeeId":"220007","isCheckIn":"1","eventtime":"2025-02-05T13:05:41"},
+      {"employeeId":"220009","isCheckIn":"0","eventtime":"2025-02-05T13:06:21"},
+      {"employeeId":"00700718","isCheckIn":"0","eventtime":"2025-02-05T13:08:59"},
+      {"employeeId":"00700227","isCheckIn":"1","eventtime":"2025-02-05T13:09:40"},
+      {"employeeId":"220009","isCheckIn":"1","eventtime":"2025-02-05T13:13:22"},
+      {"employeeId":"210009","isCheckIn":"0","eventtime":"2025-02-05T13:13:35"},
+      {"employeeId":"210009","isCheckIn":"1","eventtime":"2025-02-05T13:14:40"}
+    ]
+  }
+  

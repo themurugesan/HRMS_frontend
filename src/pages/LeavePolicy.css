@@ -1,0 +1,43 @@
+/* For the Policy Table */
+.policy-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .policy-table th, .policy-table td {
+    padding: 14px;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+  
+  .policy-table th {
+    background-color: #2d3e50;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .policy-table td {
+    background-color: #f9f9f9;
+  }
+  
+  .policy-table tr:nth-child(even) {
+    background-color: #f1f1f1;
+  }
+  
+  .policy-table tr:hover {
+    background-color: #e2e2e2;
+  }
+  
+  .policy-table td {
+    font-size: 1rem;
+  }
+  
+  /* Responsive Table */
+  @media screen and (max-width: 768px) {
+    .policy-table th, .policy-table td {
+      padding: 8px;
+      font-size: 14px;
+    }
+  }
+  
